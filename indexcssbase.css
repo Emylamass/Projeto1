@@ -1,0 +1,81 @@
+    #conteudo {
+    width: ;
+    background-color: ;
+    margin-left: ;
+    margin-right: ;
+    padding: ;
+    }
+    
+    #conteudoinicio {
+    width: ;
+    height: ;
+    background-color: ;
+    margin-left: ;
+    margin-right: ;
+    padding: ;
+    }
+    
+    #topo {
+    width: ;
+    margin-left: ;
+    margin-right: ;
+    }
+    
+    #rodape {
+    width: ;
+    margin-left: ;
+    margin-right: ;
+    }
+    
+    body {
+    margin: ;
+    background-image: url(imagens/bg.jpg);
+    background-repeat: ;
+    background-attachment: ;
+    background-position: ;
+    background-color: ;
+    }
+    
+    h1 {
+    font-family: ;
+    color: ;
+    text-align: ;
+    }
+    
+    h3 {
+    font-family: ;
+    color: ;
+    }
+    
+    p {
+    font-family: ;
+    text-align: ;
+    font-size: ;
+    line-height: ;
+    color: ;
+    }
+    
+    a:link { 
+    color: ;
+    font-weight: ;
+    font-family: ;
+    text-decoration: ;
+    font-size: ;
+    }
+    
+    a:visited {
+    color: ;
+    font-weight: ;
+    font-family: ;
+    font-size: ;
+    text-decoration: ;
+    }
+    
+    a:hover {
+    color: ;
+    font-weight: ;
+    font-family: ;
+    text-decoration: ;
+    font-size: ;
+    }
+    
